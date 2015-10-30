@@ -13,7 +13,7 @@ Ex.:
 ```
 php Generator.php full
 ```
-* bycc - Devide list by Country Code in byCC folder.
+* bycc - Divide list by Country Code in byCC folder.
 Ex.:
 ```
 php Generator.php bycc
